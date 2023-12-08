@@ -5,4 +5,4 @@ Project consists of a dashboard that visualize a problematic situation of Netfli
 <br />
 <p align="center">
 Netflix Sales Performance Dashboard: <br/>
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Netflix%20Dashboard%2010214787.pdf"/>
+<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Netflix%20Dashboard.png"/>
