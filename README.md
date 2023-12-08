@@ -5,4 +5,4 @@ Project consists of a dashboard that visualize a problematic situation of Netfli
 <br />
 <p align="center">
 Netflix Sales Performance Dashboard: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Netflix%20Dashboard%2010214787.pdf"/>
