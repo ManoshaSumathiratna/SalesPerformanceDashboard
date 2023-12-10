@@ -5,17 +5,20 @@ This dashboard was developed in order to identify a problematic situation of the
 <br/>
 <br/>
 <b> Data Collection : </b>
-The dashboard was developed based on the secondary data.
+In order to carry out Netflix’s sales analysis and to highlight the significant findings of subscription loss in 2022, sales data were gathered from company’s quarterly and annual financial reports from 2017 to 2022. The dashboard was developed based on the secondary data.
 <br/>
 <br/>
 <b> Date Aquisition: </b> The data was exported into a SPSS file for further preparation.
 <br/>
 <br/>
 <b>Data Preparation :</b>
-
-Data Cleansing - Removed missing value and outliers
+Company’s quarterly data were available for region wise and the data were amalgamated in SPSS. Two separate worksheets were prepared for quarterly and annual data. 
 <br/>
-Data Manipulation - Used SPSS "COMPUTE" command to create new variables 
+<br/>
+<b> Data Cleansing :</b> Removed missing value and outliers using SPSS
+<br/>
+<br/>
+<b>Data Manipulation :</b> Used SPSS "COMPUTE" command to create new variables 
 <br/>
 <p align="left">
 <img src="https://github.com/ManoshaSumathiratna/Images/blob/main/formulas.png" height="70%" width="60%"/>
@@ -49,6 +52,7 @@ Based on the analysis, the reasons for the sales drop were identified and recome
 <br/>
 <br/>
 
+<h2> Data Analysis and Justification </h2>
 <b> Figure 1: Netflix Qualrterly Revenue by Year </b>
 <br/>
 <img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Figure1.png" height="70%" width="60%"/>
